@@ -1,6 +1,6 @@
 import './App.css'
-import Paragrafo from './components/paragrafo/paragrafo'
-import Button from './components/button/button'
+import Paragrafo from './components/StyledText/index'
+import Button from './components/AlertButton/index'
 
 function App() {
 
